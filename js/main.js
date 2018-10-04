@@ -10,5 +10,11 @@ var z = 0;
 i++;
 
 
-var z = true;
-i == z
+var p = true;
+i == z;
+
+z == p
+
+var t = p;
+var p = t; 
+
