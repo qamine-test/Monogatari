@@ -42,6 +42,8 @@ const music = {
 
 };
 
+var not_camel_cased = {} ;
+
 // Define the voice files used in the game.
 const voice = {
 
